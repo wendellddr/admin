@@ -1,8 +1,4 @@
 
-# admin
-Project Admin
-=======
-
 ## Installation
 
 ```bash
