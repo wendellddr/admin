@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # admin
 Project Admin
 =======
@@ -62,3 +63,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 >>>>>>> starting-admin
+=======
+# admin
+Project Admin
+>>>>>>> 32bbae3f24f0166fc1d3acec07175fe58646d932
