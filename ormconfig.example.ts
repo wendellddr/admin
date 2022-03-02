@@ -13,9 +13,9 @@ const config: ConnectionOptions = {
   type: 'postgres',
   host: 'localhost',
   port: 5432,
-  username: 'wendelldouglas',
-  password: '12345678',
-  database: 'template1',
+  username: 'root',
+  password: 'root',
+  database: 'root',
   entities: [__dirname + '/**/*.entity{.ts,.js}'],
 
   // We are using migrations, synchronize should be set to false.
