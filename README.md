@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # admin
 Project Admin
 =======
@@ -61,24 +57,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
->>>>>>> starting-admin
-=======
-# admin
-Project Admin
->>>>>>> 32bbae3f24f0166fc1d3acec07175fe58646d932
-=======
-# admin
-Project Admin
->>>>>>> 0f6854abac603edd40f066713a3b74d1300afa92
-=======
-# admin
-Project admin
->>>>>>> 844226e653a9cb8c1e00dd0ef162508969374732
-=======
-# admin
-admin
->>>>>>> 3544da9888e3d8002dbf8145cd80543e4502d750
